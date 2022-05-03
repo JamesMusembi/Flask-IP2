@@ -1,5 +1,5 @@
-MOVIE_API_KEY='1b0f2bd179f44636bef9b3fe9da611dd'
+MOVIE_API_KEY='52205e10a9fc49e797ad3a9088babfea'
 
 SECRET_KEY='mysecretkey'
 
-python3.9 manager.py server
+python3.9 manage.py server
