@@ -30,4 +30,15 @@ Run the project on ./start.sh on your terminal after changing the mode.
 ## Technology Used
 * Python 
 * Flask
+### Usage / BDD
+Clone the project and run it using ./start.sh on your terminal.
+Scroll down to learn more.
+Click on the what we do Icons to see more
+For contact fill all the inputs and we will reach out
+
+
+## License -Copyright 
+
+MIT License
+
 
