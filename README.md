@@ -40,5 +40,6 @@ For contact fill all the inputs and we will reach out
 ## License -Copyright 
 
 MIT License
+copyright(c) license 2022,James Musembi, student-Moringa school
 
 
