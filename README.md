@@ -11,6 +11,9 @@
 + [License](#license-Copyright)
 + [Authors Info](#author-Info/contacts)
 
+## Description
+A project that enables users to stay in touch with news from around the world.
+
 ## Development server
 
 Run the project on ./start.sh on your terminal after changing the mode.
